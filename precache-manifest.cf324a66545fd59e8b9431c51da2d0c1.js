@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "151b7ab5d5797e50b084bdfb47497db4",
+    "revision": "73daba94dffbe8fdf71bbe52677f34ae",
     "url": "/index.html"
   },
   {
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/9.37c4df92.chunk.css"
   },
   {
-    "revision": "1a94e76f4614eb7a9ce3",
+    "revision": "72b05fd6a76cca825ff8",
     "url": "/static/css/main.b0632b1d.chunk.css"
   },
   {
@@ -820,16 +820,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/9.fb973eae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a94e76f4614eb7a9ce3",
-    "url": "/static/js/main.0feaab8e.chunk.js"
+    "revision": "72b05fd6a76cca825ff8",
+    "url": "/static/js/main.3ac24e75.chunk.js"
   },
   {
     "revision": "58f932d52d9f92176517",
     "url": "/static/js/runtime-main.3cb33fe9.js"
   },
   {
-    "revision": "87d0dc2b02ac2e83c6bf56af8873fe5c",
-    "url": "/static/media/Yantraksh Logo.87d0dc2b.png"
+    "revision": "cce144c563182558724b9ad579e5130c",
+    "url": "/static/media/Yantraksh Logo.cce144c5.png"
   },
   {
     "revision": "8f76ed977595a1307842313117355237",

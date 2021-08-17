@@ -34,8 +34,8 @@
     "static/js/11.f4b70841.chunk.js": "/static/js/11.f4b70841.chunk.js",
     "static/js/11.f4b70841.chunk.js.map": "/static/js/11.f4b70841.chunk.js.map",
     "main.css": "/static/css/main.b0632b1d.chunk.css",
-    "main.js": "/static/js/main.0feaab8e.chunk.js",
-    "main.js.map": "/static/js/main.0feaab8e.chunk.js.map",
+    "main.js": "/static/js/main.3ac24e75.chunk.js",
+    "main.js.map": "/static/js/main.3ac24e75.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3cb33fe9.js",
     "runtime-main.js.map": "/static/js/runtime-main.3cb33fe9.js.map",
     "static/css/14.c025fa3c.chunk.css": "/static/css/14.c025fa3c.chunk.css",
@@ -252,7 +252,7 @@
     "static/js/89.d71452c6.chunk.js": "/static/js/89.d71452c6.chunk.js",
     "static/js/89.d71452c6.chunk.js.map": "/static/js/89.d71452c6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2be4142da4c6d886555cbb6cbd201998.js": "/precache-manifest.2be4142da4c6d886555cbb6cbd201998.js",
+    "precache-manifest.cf324a66545fd59e8b9431c51da2d0c1.js": "/precache-manifest.cf324a66545fd59e8b9431c51da2d0c1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/0.eef52b60.chunk.css.map": "/static/css/0.eef52b60.chunk.css.map",
     "static/css/10.a5e0a923.chunk.css.map": "/static/css/10.a5e0a923.chunk.css.map",
@@ -370,7 +370,7 @@
     "static/js/68.b00b9934.chunk.js.LICENSE.txt": "/static/js/68.b00b9934.chunk.js.LICENSE.txt",
     "static/js/8.b1c15901.chunk.js.LICENSE.txt": "/static/js/8.b1c15901.chunk.js.LICENSE.txt",
     "static/js/9.fb973eae.chunk.js.LICENSE.txt": "/static/js/9.fb973eae.chunk.js.LICENSE.txt",
-    "static/media/Yantraksh Logo.png": "/static/media/Yantraksh Logo.87d0dc2b.png",
+    "static/media/Yantraksh Logo.png": "/static/media/Yantraksh Logo.cce144c5.png",
     "static/media/t00-removebg-preview.png": "/static/media/t00-removebg-preview.8f76ed97.png",
     "static/media/t10-removebg-preview.png": "/static/media/t10-removebg-preview.cd39193f.png",
     "static/media/t100-removebg-preview.png": "/static/media/t100-removebg-preview.67dd3247.png",
@@ -388,6 +388,6 @@
     "static/css/16.00105794.chunk.css",
     "static/js/16.eb96fedb.chunk.js",
     "static/css/main.b0632b1d.chunk.css",
-    "static/js/main.0feaab8e.chunk.js"
+    "static/js/main.3ac24e75.chunk.js"
   ]
 }
