@@ -5,13 +5,13 @@ export const getJWTTokens = ({username, password}) =>
     method: 'POST',
     data: {username, password},
     secure: false,
-  });
+});
 
 export const isUserVerified = ({username}) =>
   loadAPI(`/verification/`, {
     params: {username},
     secure: false,
-  });
+});
 
 export const verifyUser = ({username, otp}) =>
   loadAPI('/verifyOTP/', {

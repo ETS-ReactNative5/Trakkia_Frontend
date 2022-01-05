@@ -398,6 +398,13 @@ export const employeeRoutes = [
     Component: lazy(() => import('screens/employee/Roles.screen')),
     props: {isEmployee: true},
   },
+  {
+    name: 'Audit Log',
+    icon: ['fas', 'clipboard-list'],
+    path: '/audit-log/',
+    Component: lazy(() => import('screens/employee/auditLog.screen')),
+    props: {isEmployee: true},
+  },
 ];
 
 export const clientRoutes = [
