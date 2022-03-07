@@ -239,7 +239,7 @@ export const DashboardScreen = () => {
                   key={1}
                   style={{ marginTop: 0, marginBottom: '10px' }}
                   contentStyle={{ padding: '5px 5px 5px 10px', boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px' }}
-                  date={'August 2016 - present'}
+                  date={'7th March 2022'}
                   dateClassName="padding-0"
                   iconStyle={{ background: "#20a8d8", boxShadow: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white' }}
                   icon={<i className='fas fa-plus'></i>}
@@ -250,7 +250,7 @@ export const DashboardScreen = () => {
                   key={1}
                   style={{ marginTop: 0, marginBottom: '10px' }}
                   contentStyle={{ padding: '5px 5px 5px 10px', boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px' }}
-                  date={'August 2016 - present'}
+                  date={'7th March 2022'}
                   dateClassName="padding-0"
                   iconStyle={{ background: "#20a8d8", boxShadow: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white' }}
                   icon={<i className='fas fa-plus'></i>}
@@ -261,7 +261,7 @@ export const DashboardScreen = () => {
                   key={1}
                   style={{ marginTop: 0, marginBottom: '10px' }}
                   contentStyle={{ padding: '5px 5px 5px 10px', boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px' }}
-                  date={'August 2016 - present'}
+                  date={'7th March 2022'}
                   dateClassName="padding-0"
                   iconStyle={{ background: "#20a8d8", boxShadow: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white' }}
                   icon={<i className='fas fa-upload'></i>}
@@ -272,7 +272,7 @@ export const DashboardScreen = () => {
                   key={1}
                   style={{ marginTop: 0, marginBottom: '10px' }}
                   contentStyle={{ padding: '5px 5px 5px 10px', boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px' }}
-                  date={'August 2016 - present'}
+                  date={'7th March 2022'}
                   dateClassName="padding-0"
                   iconStyle={{ background: "#20a8d8", boxShadow: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white' }}
                   icon={<i className='fas fa-plus'></i>}
@@ -283,7 +283,7 @@ export const DashboardScreen = () => {
                   key={1}
                   style={{ marginTop: 0, marginBottom: '10px' }}
                   contentStyle={{ padding: '5px 5px 5px 10px', boxShadow: 'rgba(0, 0, 0, 0.16) 0px 1px 4px' }}
-                  date={'August 2016 - present'}
+                  date={'6th March 2022'}
                   dateClassName="padding-0"
                   iconStyle={{ background: "#20a8d8", boxShadow: 'none', display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'white' }}
                   icon={<i className='fas fa-plus'></i>}
@@ -293,7 +293,7 @@ export const DashboardScreen = () => {
               </VerticalTimeline>
             </Card>
           </Col>
-        </Row>
+        </Row>August
       </Card>
       <br />
     </>
